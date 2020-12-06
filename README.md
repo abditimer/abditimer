@@ -1,6 +1,6 @@
-### Hi there ![]()
+### Hi there <img src="Hi.gif" width="100">
 
-<img src="https://miro.medium.com/max/812/0*7yWaIsGwD-BXtIhE" align="left">
+<img src="https://miro.medium.com/max/812/0*7yWaIsGwD-BXtIhE" align="right">
 
 - 🔭 I’m currently working on a few interesting projects...
 - 🌱 I’m currently learning Django, Flask, Recommender Systems and more on DNNs
