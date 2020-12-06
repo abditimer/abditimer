@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![]()
 
 - 🔭 I’m currently working on a few interesting projects...
 - 🌱 I’m currently learning Django, Flask, Recommender Systems and more on DNNs
