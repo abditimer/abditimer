@@ -1,5 +1,7 @@
 ### Hi there ![]()
 
+<img src="https://miro.medium.com/max/812/0*7yWaIsGwD-BXtIhE" align="left">
+
 - 🔭 I’m currently working on a few interesting projects...
 - 🌱 I’m currently learning Django, Flask, Recommender Systems and more on DNNs
 - 👯 I’m looking to collaborate on cool & interesting projects
